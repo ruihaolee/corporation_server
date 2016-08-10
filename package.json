@@ -1,0 +1,22 @@
+{
+  "name": "corporation_server",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "ccap": "^0.6.10",
+    "cheerio": "^0.20.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "iconv-lite": "^0.4.13",
+    "mongoose": "^4.5.7",
+    "request": "^2.74.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruihaoLee",
+  "license": "ISC"
+}
